@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Listi Farida</h1>
+<br>
+ <p align="center">
+        <img src="/aset/asetv1.gif" alt="gambar gift" width="40%">
+ </p>
+<br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/listi-farida/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/listi-farida/" height="30" width="40" /></a>
