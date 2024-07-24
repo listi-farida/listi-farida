@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">👋 Hi there! I'm Listi Farida</h1>
 <br>
  <p align="center">
         <img src="/aset/asetv1.gif" alt="gambar gift" width="40%">
  </p>
- <p align="center">👋 Hi there! I'm Listi, a passionate graphic design and electrical engineer. I believe in continuous learning.
+ <p align="center"> Enthusiastic about learning new things for self-development and interested in a career as an electrical engineer, graphic designer, and product management.".
  </p>
 <br>
 <h3 align="center">Connect with me:</h3>
